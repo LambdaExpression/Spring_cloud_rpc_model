@@ -1,0 +1,2 @@
+# Spring_cloud_rpc_model
+基于Feign的继承特征实现的伪RPC模式
